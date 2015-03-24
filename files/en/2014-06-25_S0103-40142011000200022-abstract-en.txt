@@ -1,1 +1,1 @@
- paper presents  ideas   application  mathematical tools   study  biological problems,   historic context.    dynamical system theory,  models  biological systems presenting emergence  global complex behavior  discussed.
+ paper presents  ideas   application  mathematical tools   study  biological problems    historic context     dynamical system theory   models  biological systems presenting emergence  global complex behavior  discussed 
